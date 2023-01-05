@@ -2,13 +2,13 @@
 
 ## Curso para aprender GeoPandas usando el lenguaje de programación Python desde cero y para principiantes
 
-![](./Images/header.jpg)
+![](./Imagenes/header.jpg)
 
 ## Clases en vídeo
 
 ### Curso de fundamentos desde cero
 
-Curso que agrupa todas las clases en directo que hacen referencia a los fundamentos de Python.
+Curso que agrupa todas las clases que hacen referencia a los fundamentos de GeoPandas.
 
 > Código: Todo el código se encuentra en la raiz de este repositorio de Github
 
