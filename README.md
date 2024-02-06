@@ -33,6 +33,7 @@ No descarto añadir nuevas lecciones a futuro, pero creo que por el momento pued
 
 * [Web oficial de Python](https://www.python.org/)
 * [Web oficial de GeoPandas](https://geopandas.org/)
+* [Web oficial de Rasterio](https://rasterio.readthedocs.io/en/stable/)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
